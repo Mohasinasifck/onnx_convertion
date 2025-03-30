@@ -18,4 +18,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Test ONNX Model
-        run: python tests/test_conversion.py
+        run: python tests/test_convertion.py
