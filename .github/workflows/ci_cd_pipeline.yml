@@ -17,5 +17,8 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
 
+      - name: main
+        run: python main.py
+
       - name: Test ONNX Model
         run: python tests/test_convertion.py
