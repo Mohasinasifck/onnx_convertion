@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+onnx_models/*.onnx
+
+ai_deployment/
+env/
+.venv/
+
+*.log
+.DS_Store
