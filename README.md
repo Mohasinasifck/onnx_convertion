@@ -39,7 +39,7 @@
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/Mohasinasifck/onnx_convertion.git
-cd your-repo
+cd onnx_convertion
 ```
 
 ### **2️⃣ Create a Virtual Environment**  
